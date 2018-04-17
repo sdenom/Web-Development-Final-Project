@@ -1,0 +1,8 @@
+body{
+    background-image: url(csgo-banner.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top, center;
+    background-color: black;
+    background-size: 65% 25%;
+}
